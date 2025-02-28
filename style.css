@@ -5,3 +5,8 @@ h1{
     font-style: oblique;
     font-weight: 900;
 }
+h2{
+    background-color: gray;
+    color: chartreuse;
+    border: 2px solid yellowgreen;
+}
